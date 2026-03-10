@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="logo_open_fiber">Logo Open Fiber</string>
+    <string name="open_fiber_smart">Open Fiber SMART</string>
+    <string name="scan_qr_code">SCAN QR CODE</string>
+    <string name="offline">Offline</string>
+    <string name="riavvia_il_dispositivo">Riavvia il dispositivo</string>
+    <string name="controlla_i_cavi">Controlla i cavi</string>
+    <string name="resetta_il_router">Resetta il router</string>
+    <string name="richiedi_supporto">Richiedi supporto</string>
+    <string name="troubleshooting">Troubleshooting</string>
+    <string name="of">OF</string>
+    <string name="zte_router">ZTE Router</string>
+    <string name="offline_da_7_minuti">Offline da 7 minuti</string>
+    <string name="illustrazione_utente_con_smartphone">Illustrazione utente con smartphone</string>
+    <string name="serve_aiuto">Serve aiuto?</string>
+    <string name="scansiona_il_codice_qr_per_avviare_la_risoluzione_del_problema">Scansiona il codice QR per avviare la risoluzione del problema.</string>
+    <string name="scansiona_codice_qr">SCANSIONA CODICE QR</string>
+</resources>
